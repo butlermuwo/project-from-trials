@@ -11,6 +11,7 @@ header {
   padding: 0 50px;
   overflow: hidden;
 }
+
 img {
   width: 250px;
 }
@@ -60,7 +61,6 @@ form {
 #email {
   padding: 10px;
   margin-top: 20px;
-  border: none;
   font-size: 20px;
   border-radius: 10px;
   border: 2px solid #e6a463;
